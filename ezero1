@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/course1.css">
+    <title>Document</title>
+</head>
+<body>
+      <img src="">
+    <div class="div1">
+        <h2 style="color: chartreuse;">good morning everybody this is a new beginning</h2>
+        <p>first paragraph</p>
+        <p>second</p>
+        <p>holla</p>
+        <p>holla</p>
+        <p>holla</p>
+        <p>holla</p>
+        <p>holla</p>
+        <p>holla</p>
+        <p>holla</p>
+        <p>holla</p>
+        <p>holla</p>
+        <p>holla</p>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+        <P>HOLLA</P>
+    </div>
+    <div class="mar">hooooo margin is '40px auto' </div>
+    <div class="disp disp1">display=block</div>
+    <span class="disp disp2">display=inline</span>
+    <span class=" disp disp3">display=inline-block</span>
+    <div class="disp disp4">visibility</div>
+    <div class="disp">li mn fo9 rahou visibility : hidden</div>
+</html>
