@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/course2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap" rel="stylesheet">
+    <title>course2</title>
+</head>
+<body>
+<div>
+    <p>paragraph inside div</p><p>both of us have display: inline-block</p>
+</div>
+<p>pargraph outside div</p>
+<div class="mi">min-width:400px + display:inline-block</div>
+<div class="mi">lorem corrupti officia quod ullam harum nam dignissimos. Delectus nostrum animi perspiciatis aspernatur impedit?</div>
+<div class="mi">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus deserunt veniam tenetur illo sit neque odit suscipit, corrupti officia quod ullam harum nam dignissimos. Delectus nostrum animi perspiciatis aspernatur impedit?</div>
+
+<div class="ma">max-width:600px + display:inline-block</div>
+<div class="ma">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntiufhejfbds cdjgfew ddwujhkuh ztzutiuz ghgkj et. Natus!</div>
+<div class="ff">display: block (by default) + width:fit-content</div>
+<div class="over">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas officia ad, illo beatae b velit labore 
+    placeat quidem accusamus deleniti non sunt quia reprehenderit voluptates in iste et cupiditate repellat?</div>
+<div class="algn">والسلام عليكم. <img src="../imgs/first.jpg" alt="failed to upload photo"></div>
+<div class="add"><a href="google.com">Google</a></div>
+<h3>elzero web school is capitalized </h3>
+<h4>text-indent here is 100px (espace 9bel lketba kima /t)</h4>
+<div class="lin">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis suscipit consectetur iste culpa? Animi vitae illum commodi, vel cupiditate repudiandae. Inventore, deserunt blanditiis fuga dolore quis harum error quia esse. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusantium atque consectetur nihil quos qui, quidem quisquam aliquid esse animi hic consequuntur repellat quaerat, nulla magni fugiat pariatur praesentium assumenda.
+Ullam laudantium quas architecto debitis id nobis facilis consectetur eius corrupti sequi illum, aspernatur sapiente porro distinctio vitae reiciendis omnis molestias dolor ducimus, quidem eligendi voluptatum earum repudiandae? Perspiciatis, consequatur?
+Ullam ex, voluptate accusantium sunt fuga esse debitis assumenda nisi molestias recusandae repellendus est harum similique quibusdam quos nulla laudantium. Nihil vitae ab rerum excepturi ratione sunt quo ullam similique.
+Explicabo est fuga exercitationem tenetur fugiat porro minima sunt doloremque veritatis. Perspiciatis accusamus, aut sapiente harum cumque labore libero veniam qui sequi odio illo, commodi repellat quod. Blanditiis, hic molestias!</div>
+</div>
+<div class="brk">https://www.example.com/path/to/a/longer/and/more/descriptive/link/with/lots/of/subdirectories/and/parameters?query_param1=value1&query_param2=value2&query_param3=value3#section123
+</div>
+<div class="tex" title="hover">bonjour a tous je suis monsieur le directeur generale</div>
+<div class="parent"><h3 class="child">Welcome to facebook(Inheritance)</h3></div>
+<button class="curs">click here and look at the cursor how it is changing !!</button>
+</body>
+</html>
