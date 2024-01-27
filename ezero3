@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/course3.css">
+    <title>course3</title>
+</head>
+<body>
+    <div class="a">opacity for the background only</div>
+    <div class="b">opacity for all the element(even writing)</div>
+    <div class="parent">position :absolute
+    <div class="one">position: relative</div>
+    <div class="two">two element</div>
+    </div>
+    <div class="three">position:fixed</div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae accusantium asperiores deleniti tempora tenetur esse. Accusamus vero reiciendis ea minus voluptatum, cumque repellat, eligendi repudiandae, corrupti consequuntur esse dolorem!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae accusantium asperiores deleniti tempora tenetur esse. Accusamus vero reiciendis ea minus voluptatum, cumque repellat, eligendi repudiandae, corrupti consequuntur esse dolorem!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae accusantium asperiores deleniti tempora tenetur esse. Accusamus vero reiciendis ea minus voluptatum, cumque repellat, eligendi repudiandae, corrupti consequuntur esse dolorem!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae accusantium asperiores deleniti tempora tenetur esse. Accusamus vero reiciendis ea minus voluptatum, cumque repellat, eligendi repudiandae, corrupti consequuntur esse dolorem!</p>
+    <div class="four">position:sticky</div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae accusantium asperiores deleniti tempora tenetur esse. Accusamus vero reiciendis ea minus voluptatum, cumque repellat, eligendi repudiandae, corrupti consequuntur esse dolorem!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae accusantium asperiores deleniti tempora tenetur esse. Accusamus vero reiciendis ea minus voluptatum, cumque repellat, eligendi repudiandae, corrupti consequuntur esse dolorem!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam beatae accusantium asperiores deleniti tempora tenetur esse. Accusamus vero reiciendis ea minus voluptatum, cumque repellat, eligendi repudiandae, corrupti consequuntur esse dolorem!</p>
+    <div class="z first">element</div>
+    <div class="z second">element</div>
+    <div class="z third">element</div>
+    <br><br><br><br><br>
+    <ul class="lis">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS
+            <ul>
+                <li>angular</li>
+                <li>reactjs</li>
+                <li>vuejs</li>
+            </ul>
+        </li>
+    </ul>
+<br><br><br><br><br>
+
+    <ul class="lis1">
+    
+    <li>one</li>
+
+    <li class="element-hov">two(hover on me)
+        <ul class="lis1 ho">
+            <li>two one</li>
+            <li>two two</li>
+            <li>two three</li>
+        </ul>
+    </li>
+
+    <li class="element-hov">three(hover on me)
+        <ul class="lis1 ho">
+        <li >three one</li>
+        <li>three two</li>
+        <li>three three</li>
+        </ul>
+    </li>
+    </ul><br><br><br><br><br>
+
+    <table>
+        <thead>
+          <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+            <th>Header 3</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Row 1, Cell 1</td>
+            <td>Row 1, Cell 2</td>
+            <td>R1,C3</td>
+          </tr>
+
+          <tr>
+            <td>Row 2, Cell 1</td>
+            <td>Row 2, Cell 2</td>
+            <td>R2,C3</td>
+          </tr>
+          <tr>
+            <td>R3 c1</td>
+            <td>R3 c2</td>
+            <td>R3 C3</td>
+          </tr>
+        </tbody>
+        <h2>border-spacing: 40px;(l'espace bin les cellules) - n9dr nradou 0px -</h2>
+      </table>
+</body>
+</html>
