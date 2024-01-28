@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/course4.css">
+    <title>course4</title>
+</head>
+<body>
+    <div>the div element</div>
+    <p>the p element that directly follows div element (div + p) </p>
+    <p>but this is not selected by div+p</p>
+    <input type="checkbox" name="checkox" id="checkbox">
+    <label for="checkbox">try and check</label>
+    <div class="gg"></div>
+    <input type="text" name="te" id="te"></input>
+    <p class="num1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam sapiente nisi quia pariatur, quibusdam iste. Provident consequuntur officiis qui eaque tenetur quaerat, quisquam, tempora accusantium sed possimus nostrum, nemo delectus.</p>
+    <p class="num2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam sapi Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam! Ipsa pariatur a quasi corporis quia iusto porro, adipisci necessitatibus. Nam nostrum saepe magni doloremque. Repellat eveniet praesentium fugiat eum.ente nisi quia pariatur, quibusdam iste. Provident consequuntur officiis qui eaque tenetur quaerat, quisquam, tempora accusantium sed possimus nostrum, nemo delectus.</p>
+    <p class="num3" style="font-weight:bolder">try and select this text (it's not blue like the others) </p>
+    <!-- i will start without ::before and ::after -->
+    <div class="contain-K">
+        <div class="letter">ENPO</div>
+        <div class="sentence">Ecole nationale polytechnique d'oran ( i am using span and not ::after/before)
+            <span></span>
+        </div>
+    </div>
+    <div class="contain-K">
+        <div class="Lor">Lorem</div>
+        <div class="paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident quo quibusdam laborum, repellat nisi quis voluptatem. Consequatur, corporis soluta. Iste illo beatae dolore consectetur obcaecati voluptatem nostrum iure repudiandae alias.</div>
+    </div>
+    <div class="feature"></div>
+</body>
+</html>
