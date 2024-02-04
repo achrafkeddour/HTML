@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/course5.css">
+    <title>course5</title>
+</head>
+<body>
+    <div class="trans">title</div>
+    <div class="imp" style="background-color: blue;">we have : style="background-color: blue;" <br>and we have also: .imp {<br>
+        background-color: tomato <span>!important; </span>(more effective)<br>
+    }</div>
+
+    <div class="varia">hello everyone!</div>
+    <div class="varia2">how are you</div>
+</body>
+</html>
